@@ -1,3 +1,17 @@
 These are the files for the Magical Pouch mod for Don't Starve Together.  
-Version: 2.1.0  
-    - implemented pouch-ception
+
+Live version: 2.1.0  
+
+Latest changes:  
+\- implemented pouch-ception - thanks to [Raidel del Peso](https://github.com/rdelpeso)  
+
+Branching guidelines:  
+'master' - current live version  
+'develop' - lastest working build  
+'release-\*' - release version \*  
+'feature-\*' - new feature being developed  
+'hotfix-\*' - hotfix to be applied to the current live version  
+Notes:  
+\- when creating a new feature, create a new branch 'feature-\*' using 'develop' as the starting point;  
+\- when a feature is almost ready it is merged into 'develop'; after being successfully tested, 'develop' is merged into 'master'; if there were big enough changes a new branch 'release-\*' is also be created;  
+\- 'hotfix-\*' is merged into 'master' when ready;  
