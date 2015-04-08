@@ -1,4 +1,4 @@
-These are the files for the Magical Pouch mod for Don't Starve Together.  
+These are the files for the [Magical Pouch](http://steamcommunity.com/sharedfiles/filedetails/?id=399527034) mod for [Don't Starve Together](http://store.steampowered.com/app/322330/).  
 
 Live version: 2.1.0  
 
