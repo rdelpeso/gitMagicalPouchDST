@@ -6,8 +6,8 @@ Latest changes:
 \- implemented pouch-ception - thanks to [Raidel del Peso](https://github.com/rdelpeso)  
 
 Branching guidelines:  
-'master' - current live version  
-'develop' - lastest working build  
+'[master](https://github.com/cr4shmaster/gitMagicalPouch/tree/master)' - current live version  
+'[develop](https://github.com/cr4shmaster/gitMagicalPouch/tree/develop)' - lastest working build  
 'release-\*' - release version \*  
 'feature-\*' - new feature being developed  
 'hotfix-\*' - hotfix to be applied to the current live version  
